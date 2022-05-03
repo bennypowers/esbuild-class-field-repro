@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "es2022",
+    "target": "es2022",
+    "useDefineForClassFields": false,
+
+    "experimentalDecorators": true,
+
+    "declaration": true,
+    "moduleResolution": "Node",
+    "preserveValueImports": true,
+    "strict": true,
+  }
+}
